@@ -7,3 +7,15 @@
 <del>i have entered wrong text</del><br>
 </p>
 <hr>
+# Example:club guide
+#### photography club guide
+### About the club
+<p>The photography club helps members learn photography techniques,share ideas,and organize photo walks</p>
+<hr>
+<b>membership</b>
+<p align="center">
+-open to all members
+-attend at leastone meeting
+-follow the clubs code of conduct
+</p>
+</hr>

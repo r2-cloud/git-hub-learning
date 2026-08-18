@@ -7,9 +7,9 @@
 <del>i have entered wrong text</del><br>
 </p>
 <hr>
-# Example:club guide
-#### photography club guide
-### About the club
+#  Example:club guide
+####  photography club guide
+###  About the club
 <p>The photography club helps members learn photography techniques,share ideas,and organize photo walks</p>
 <hr>
 <b>membership</b>

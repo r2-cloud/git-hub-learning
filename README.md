@@ -7,15 +7,15 @@
 <del>i have entered wrong text</del><br>
 </p>
 <hr>
-#  Example:club guide
-####  photography club guide
-###  About the club
-<p>The photography club helps members learn photography techniques,share ideas,and organize photo walks</p>
+Example: Schedule
+| Time🕑 | Activity |
+| ----- | ------ |
+| 9.00 | project |
+| 10.00 | computer |
+
 <hr>
-<b>membership</b>
-<p align="center">
--open to all members
--attend at leastone meeting
--follow the clubs code of conduct
-</p>
-</hr>
+
+-[] hello
+-[] hi
+image of muruga:<img width="419" height="477" alt="image" src="https://github.com/user-attachments/assets/57555866-ce2c-4910-9480-5dd49bfce552" />
+
